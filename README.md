@@ -1,6 +1,6 @@
 <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1e7.svg" width="20"/> English
 <br>
-<h3>🩺 Diabetes Prediction Project<h3>
+<h3>🩺 Diabetes Prediction Project</h3>
 This project's goal is to develop a machine learning model that predicts whether a person has diabetes based on specific health-related features. The Logistic Regression algorithm, a common choice for classification problems, was used for this purpose.
 
 🚀 Project Goal
@@ -54,7 +54,7 @@ The results indicate that the model performs well in predicting diabetes risk. T
 
 <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1f7.svg" width="20"/> Türkçe
 <br>
-<h3>🩺 Diyabet Tahmini Projesi<h3>
+<h3>🩺 Diyabet Tahmini Projesi</h3>
 Bu proje, bir kişinin belirli sağlık özelliklerine dayanarak diyabet hastası olup olmadığını tahmin eden bir makine öğrenimi modelinin geliştirilmesini amaçlar. Projede, sınıflandırma problemleri için yaygın olarak kullanılan Lojistik Regresyon algoritması kullanılmıştır.
 
 🚀 Proje Amacı
